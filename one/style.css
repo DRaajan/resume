@@ -17,12 +17,14 @@ body {
 /* Headings */
 h1, h2, h3 {
   margin-bottom: 10px;
-  color: #e60f0f;
+  color: #6774e2;
 }
 
 /* Paragraphs */
 p {
+    color: rgb(15, 57, 124);
   margin-bottom: 15px;
+  font-style:italic;
 }
 
 /* Links */
@@ -60,4 +62,9 @@ button:hover {
 }
 h1{
     color: #e5caca;
+}
+table{
+   border: #7f0707;
+   border-style: dotted;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
